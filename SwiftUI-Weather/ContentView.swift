@@ -50,7 +50,6 @@ struct ContentView: View {
 												backgroundColor: .white)
 				}
 				Spacer()
-				Spacer()
 			}
 		}
 	}
